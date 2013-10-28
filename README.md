@@ -9,9 +9,17 @@ Wikiunity-Global
 */
 </pre>
 
-Das Verwenden der Plugins, Logos oder andere Bausteine dienen rein zur Orientierung und sind nicht unter dem gleichen Namen, Verwendungszweck oder URLs mit gleicher Bedeutung verwendbar oder erlaubt. 
-Diese Ausführungen dienen rein als Verweise zum Projekt "Wikiunity" und sind nur mit Einverstendnis des Urheber Michael Kaufmann, unter gleicher URL und Namen nutzbar.
-Bei Fragen zum Projekt und Hosting, wenden Sie sich bitte an: <a href="https://github.com/McCouman">McCouman</a> oder <a href="https://github.com/bwoebi">Bwoebi</a>
+<h3>Lizenzen und Verwenung</h3>
+Das Verwenden der Plugins, Logos oder andere Bausteine dienen rein zur Orientierung und sind nicht unter dem gleichen 
+Namen, Verwendungszweck oder URLs mit gleicher Bedeutung verwendbar oder erlaubt. 
+
+Diese Ausführungen dienen rein als Verweise zum Projekt "Wikiunity" und sind nur mit 
+Einverstendnis des Urheber Michael Kaufmann, unter gleicher URL und Namen nutzbar.
+
+<h5>Fragen</h5>
+Bei Fragen zum Projekt und Hosting, wenden Sie sich bitte an: 
+
+<a href="https://github.com/McCouman">McCouman</a> oder <a href="https://github.com/bwoebi">Bwoebi</a>
 
 
 <img src="https://raw.github.com/McCouman/Wikiunity-Legend-Tag/master/Wikiunity.png">
