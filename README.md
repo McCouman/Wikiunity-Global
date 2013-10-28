@@ -14,7 +14,7 @@ Das Verwenden der Plugins, Logos oder andere Bausteine dienen rein zur Orientier
 Namen, Verwendungszweck oder URLs mit gleicher Bedeutung verwendbar oder erlaubt. 
 
 Diese Ausführungen dienen rein als Verweise zum Projekt "Wikiunity" und sind nur mit 
-Einverstendnis des Urheber Michael Kaufmann, unter gleicher URL und Namen nutzbar.
+Einverständnis des Urhebers Michael Kaufmann, unter gleicher URL und Namen nutzbar.
 
 <h5>Fragen</h5>
 Bei Fragen zum Projekt und Hosting, wenden Sie sich bitte an: 
