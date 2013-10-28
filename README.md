@@ -1,10 +1,6 @@
 Wikiunity-Global
 ================
 
-
-Wikiunity-Global
-================
-
 <pre>
 /*
 * Wikiunity.com war ein Gemeinschaftsprojekt von:
