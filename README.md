@@ -1,11 +1,6 @@
 Wikiunity-Global
 ================
 
-
-Wikiunity-Global
-================
-
-
 <img src="https://raw.github.com/McCouman/Wikiunity-Legend-Tag/master/Wikiunity.png">
 
 Design by Michael Kaufmann
