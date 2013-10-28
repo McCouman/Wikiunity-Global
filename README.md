@@ -1,11 +1,13 @@
 Wikiunity-Global
 ================
+
 <pre>
 /*
 * Wikiunity.com war ein Gemeinschaftsprojekt von:
 * Michael Kaufmann (Michael McCouman Jr.) CEO, Tim Weyer COO und Bob Weinand CTO
-* Wikiunity.com es wurde 2012 geschlossen. Das Verwenden der Plugins wie Logos ist nicht unter dem geleichen Namen
-* oder Verwendungszweck erlaubt und dient rein als Verweis.
+* Wikiunity.com es wurde 2012 geschlossen. Das Verwenden der Plugins wie Logos,
+* ist nicht unter dem gleichen Namen, Verwendungszweck oder URLs mit gleicher Bedeutung erlaubt. 
+* Diese Ausführungen dienen rein als Verweise zum Projekt.
 */
 </pre>
 
