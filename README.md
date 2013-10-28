@@ -5,11 +5,19 @@ Wikiunity-Global
 
 Design by Michael Kaufmann
 
+<img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/eng/images/Developer-wiki-logo.png">
+
+Design by Michael Kaufmann
+
+<img src="https://github.com/McCouman/Wikiunity-Global/blob/master/GlobWU/HomePack/eng/images/Config-wiki-logo.png">
+
+Design by Michael Kaufmann
+
 <img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/de/images/Community-Wikiunity.png">
 
 Design by Michael Kaufmann
 
-<img src="https://github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/de/images/Staff-wu-logo.png">
+<img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/de/images/Staff-wu-logo.png">
 
 Design by Michael Kaufmann
 
