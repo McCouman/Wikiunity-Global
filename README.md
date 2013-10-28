@@ -3,12 +3,12 @@ Wikiunity-Global
 
 <img src="https://raw.github.com/McCouman/Wikiunity-Legend-Tag/master/Wikiunity.png">
 <img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/eng/images/Developer-wiki-logo.png">
-<img src="https://github.com/McCouman/Wikiunity-Global/blob/master/GlobWU/HomePack/eng/images/Config-wiki-logo.png">
+<img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/eng/images/Config-wiki-logo.png">
 <img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/de/images/Community-Wikiunity.png">
 <img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/de/images/Staff-wu-logo.png">
 <img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/de/images/WUDE-wiki-logo.png">
 
-Design by Michael Kaufmann
+Design by Michael Kaufmann 
 
 <img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/de/images/WUDE-wiki-logo2.png">
 
