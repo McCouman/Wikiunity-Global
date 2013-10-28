@@ -9,15 +9,15 @@ Design by Michael Kaufmann
 
 Design by Michael Kaufmann
 
-<img src="https://github.com/McCouman/Wikiunity-Global/blob/master/GlobWU/HomePack/de/images/Staff-wu-logo.png">
+<img src="https://github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/de/images/Staff-wu-logo.png">
 
 Design by Michael Kaufmann
 
-<img src="https://raw.github.com/McCouman/Wikiunity-Global/blob/master/GlobWU/HomePack/de/images/WUDE-wiki-logo.png">
+<img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/de/images/WUDE-wiki-logo.png">
 
 Design by Michael Kaufmann
 
-<img src="https://raw.github.com/McCouman/Wikiunity-Global/blob/master/GlobWU/HomePack/de/images/WUDE-wiki-logo2.png">
+<img src="https://raw.github.com/McCouman/Wikiunity-Global/master/GlobWU/HomePack/de/images/WUDE-wiki-logo2.png">
 
 Design by Bob Weinand
 
